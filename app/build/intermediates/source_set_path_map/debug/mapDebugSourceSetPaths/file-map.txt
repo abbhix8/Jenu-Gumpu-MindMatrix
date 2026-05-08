@@ -1,0 +1,73 @@
+com.jenugumpu.app-ui-text-release-0 C:\Users\singh\.gradle\caches\9.0.0\transforms\01cfaa2a7529e7d5e22fd7a18e72da15\transformed\ui-text-release\res
+com.jenugumpu.app-sqlite-framework-2.4.0-1 C:\Users\singh\.gradle\caches\9.0.0\transforms\034fab0cae1926fe46ac02010de14740\transformed\sqlite-framework-2.4.0\res
+com.jenugumpu.app-startup-runtime-1.1.1-2 C:\Users\singh\.gradle\caches\9.0.0\transforms\0582f99918c5722c794693d69f8b25bb\transformed\startup-runtime-1.1.1\res
+com.jenugumpu.app-material-ripple-release-3 C:\Users\singh\.gradle\caches\9.0.0\transforms\06cadda45c35c38005d25928e0465b8c\transformed\material-ripple-release\res
+com.jenugumpu.app-ui-unit-release-4 C:\Users\singh\.gradle\caches\9.0.0\transforms\0af2ad5aa2a8220695f407df8726312f\transformed\ui-unit-release\res
+com.jenugumpu.app-navigation-compose-2.7.7-5 C:\Users\singh\.gradle\caches\9.0.0\transforms\0c2fc8ba22c344f8157579b34b19e0a8\transformed\navigation-compose-2.7.7\res
+com.jenugumpu.app-ui-tooling-preview-release-6 C:\Users\singh\.gradle\caches\9.0.0\transforms\0e66cf2052e678ec86d39382feb1ff23\transformed\ui-tooling-preview-release\res
+com.jenugumpu.app-lifecycle-viewmodel-compose-2.7.0-7 C:\Users\singh\.gradle\caches\9.0.0\transforms\0fb7483951922e4194ec6c4ca9cf29c6\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.jenugumpu.app-lifecycle-viewmodel-savedstate-2.7.0-8 C:\Users\singh\.gradle\caches\9.0.0\transforms\11e804718d669f6824c88aadb3292230\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.jenugumpu.app-lifecycle-livedata-2.7.0-9 C:\Users\singh\.gradle\caches\9.0.0\transforms\189f3ad4a35444211565ebbe10abd6bc\transformed\lifecycle-livedata-2.7.0\res
+com.jenugumpu.app-room-ktx-2.6.1-10 C:\Users\singh\.gradle\caches\9.0.0\transforms\1ddf24bce808f1332e478f0f23dc187e\transformed\room-ktx-2.6.1\res
+com.jenugumpu.app-lifecycle-viewmodel-2.7.0-11 C:\Users\singh\.gradle\caches\9.0.0\transforms\22aeb06f659fa4366ad5c5083c79db98\transformed\lifecycle-viewmodel-2.7.0\res
+com.jenugumpu.app-foundation-layout-release-12 C:\Users\singh\.gradle\caches\9.0.0\transforms\24848df64b33b6c6721cb33efd940cc4\transformed\foundation-layout-release\res
+com.jenugumpu.app-emoji2-views-helper-1.3.0-13 C:\Users\singh\.gradle\caches\9.0.0\transforms\29e5db347e309015445fe904e43b4022\transformed\emoji2-views-helper-1.3.0\res
+com.jenugumpu.app-navigation-common-2.7.7-14 C:\Users\singh\.gradle\caches\9.0.0\transforms\2c70a799222c4edc960a4bca0e9a2008\transformed\navigation-common-2.7.7\res
+com.jenugumpu.app-profileinstaller-1.3.1-15 C:\Users\singh\.gradle\caches\9.0.0\transforms\30aca3c66401a6078fe2fc206bb50a22\transformed\profileinstaller-1.3.1\res
+com.jenugumpu.app-lifecycle-runtime-compose-2.7.0-16 C:\Users\singh\.gradle\caches\9.0.0\transforms\33a7302ad8ebf21ca4614cb2ff25a50e\transformed\lifecycle-runtime-compose-2.7.0\res
+com.jenugumpu.app-navigation-runtime-2.7.7-17 C:\Users\singh\.gradle\caches\9.0.0\transforms\351b706dd7a46b761fe4cd7e447d681f\transformed\navigation-runtime-2.7.7\res
+com.jenugumpu.app-ui-graphics-release-18 C:\Users\singh\.gradle\caches\9.0.0\transforms\3a5d9890d072cc47d7c25569281bc463\transformed\ui-graphics-release\res
+com.jenugumpu.app-activity-compose-1.8.2-19 C:\Users\singh\.gradle\caches\9.0.0\transforms\3abcf7152959248ab8a2a41721009b63\transformed\activity-compose-1.8.2\res
+com.jenugumpu.app-appcompat-resources-1.6.1-20 C:\Users\singh\.gradle\caches\9.0.0\transforms\3bd834af79f2c469b849fde4393d6fc0\transformed\appcompat-resources-1.6.1\res
+com.jenugumpu.app-camera-view-1.3.1-21 C:\Users\singh\.gradle\caches\9.0.0\transforms\3f410c6d252af4459a5df58f8ce08cbf\transformed\camera-view-1.3.1\res
+com.jenugumpu.app-play-services-base-18.1.0-22 C:\Users\singh\.gradle\caches\9.0.0\transforms\406387b4e98841a85b519135d8219eb1\transformed\play-services-base-18.1.0\res
+com.jenugumpu.app-runtime-release-23 C:\Users\singh\.gradle\caches\9.0.0\transforms\44431c8ec945cff3d684445a00badda3\transformed\runtime-release\res
+com.jenugumpu.app-navigation-common-ktx-2.7.7-24 C:\Users\singh\.gradle\caches\9.0.0\transforms\445dbd6e848fe2a7349a913204a52372\transformed\navigation-common-ktx-2.7.7\res
+com.jenugumpu.app-activity-1.8.2-25 C:\Users\singh\.gradle\caches\9.0.0\transforms\56a852ec97afa23aa8758c95b7f66cb0\transformed\activity-1.8.2\res
+com.jenugumpu.app-annotation-experimental-1.4.0-26 C:\Users\singh\.gradle\caches\9.0.0\transforms\5beb0e73cb30ebdaab6457337fa03ea2\transformed\annotation-experimental-1.4.0\res
+com.jenugumpu.app-core-runtime-2.2.0-27 C:\Users\singh\.gradle\caches\9.0.0\transforms\60cd096427f654b23d6c2327622defe6\transformed\core-runtime-2.2.0\res
+com.jenugumpu.app-lifecycle-livedata-core-2.7.0-28 C:\Users\singh\.gradle\caches\9.0.0\transforms\61cd4d83400fe0e7fed18b6bf513269c\transformed\lifecycle-livedata-core-2.7.0\res
+com.jenugumpu.app-foundation-release-29 C:\Users\singh\.gradle\caches\9.0.0\transforms\68cf7d2562e50a097246f3ad3b99b8cb\transformed\foundation-release\res
+com.jenugumpu.app-customview-poolingcontainer-1.0.0-30 C:\Users\singh\.gradle\caches\9.0.0\transforms\71bdc64fd405972822d99f4acef74df6\transformed\customview-poolingcontainer-1.0.0\res
+com.jenugumpu.app-ui-tooling-data-release-31 C:\Users\singh\.gradle\caches\9.0.0\transforms\724add01144296f492bea7bf15965b20\transformed\ui-tooling-data-release\res
+com.jenugumpu.app-animation-core-release-32 C:\Users\singh\.gradle\caches\9.0.0\transforms\74f9634b71933ec49f05246e8557e3c9\transformed\animation-core-release\res
+com.jenugumpu.app-animation-release-33 C:\Users\singh\.gradle\caches\9.0.0\transforms\786d54d4f76ba40f41b2978d5016ad14\transformed\animation-release\res
+com.jenugumpu.app-room-runtime-2.6.1-34 C:\Users\singh\.gradle\caches\9.0.0\transforms\7981ecac616b0ffca5ea7fead48f84c1\transformed\room-runtime-2.6.1\res
+com.jenugumpu.app-lifecycle-process-2.7.0-35 C:\Users\singh\.gradle\caches\9.0.0\transforms\79d6d1a6a63bf77fd9455ef3e634b73c\transformed\lifecycle-process-2.7.0\res
+com.jenugumpu.app-runtime-saveable-release-36 C:\Users\singh\.gradle\caches\9.0.0\transforms\79fb0ea1d889a30253b54f2b79246818\transformed\runtime-saveable-release\res
+com.jenugumpu.app-core-ktx-1.12.0-37 C:\Users\singh\.gradle\caches\9.0.0\transforms\846a6d291284a6b23f2c79b1a7a01828\transformed\core-ktx-1.12.0\res
+com.jenugumpu.app-ui-test-manifest-1.6.1-38 C:\Users\singh\.gradle\caches\9.0.0\transforms\90286d69898321c11ac6531bbc4bb093\transformed\ui-test-manifest-1.6.1\res
+com.jenugumpu.app-savedstate-1.2.1-39 C:\Users\singh\.gradle\caches\9.0.0\transforms\93d948315d08b32dea8e137054060f5e\transformed\savedstate-1.2.1\res
+com.jenugumpu.app-lifecycle-viewmodel-ktx-2.7.0-40 C:\Users\singh\.gradle\caches\9.0.0\transforms\9713f58facf6cde5c3f33996d7cbb70d\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.jenugumpu.app-fragment-1.3.6-41 C:\Users\singh\.gradle\caches\9.0.0\transforms\98c54e952b004e546b84df6e803f63d3\transformed\fragment-1.3.6\res
+com.jenugumpu.app-material-release-42 C:\Users\singh\.gradle\caches\9.0.0\transforms\a2aa560c50e003325fbb249d9729eba8\transformed\material-release\res
+com.jenugumpu.app-camera-video-1.3.1-43 C:\Users\singh\.gradle\caches\9.0.0\transforms\abc165ec1953db0d2e6b57a5abe6204f\transformed\camera-video-1.3.1\res
+com.jenugumpu.app-ui-geometry-release-44 C:\Users\singh\.gradle\caches\9.0.0\transforms\acc12ac4ebae7b34bf6e866467566fc5\transformed\ui-geometry-release\res
+com.jenugumpu.app-play-services-basement-18.1.0-45 C:\Users\singh\.gradle\caches\9.0.0\transforms\b9114549f2e28f5265d9fb3f0d285f70\transformed\play-services-basement-18.1.0\res
+com.jenugumpu.app-ui-release-46 C:\Users\singh\.gradle\caches\9.0.0\transforms\ba9ed6f44667909f7f2d7085765ab61b\transformed\ui-release\res
+com.jenugumpu.app-material3-release-47 C:\Users\singh\.gradle\caches\9.0.0\transforms\c068f71bf6f204439b60258d30a002e7\transformed\material3-release\res
+com.jenugumpu.app-sqlite-2.4.0-48 C:\Users\singh\.gradle\caches\9.0.0\transforms\c2611e8681490efd08761d352c032267\transformed\sqlite-2.4.0\res
+com.jenugumpu.app-camera-lifecycle-1.3.1-49 C:\Users\singh\.gradle\caches\9.0.0\transforms\c2c8e880562e29845a597607ed3e9cca\transformed\camera-lifecycle-1.3.1\res
+com.jenugumpu.app-core-1.12.0-50 C:\Users\singh\.gradle\caches\9.0.0\transforms\c34ed48d402399fc5fc762bc97cb650b\transformed\core-1.12.0\res
+com.jenugumpu.app-ui-util-release-51 C:\Users\singh\.gradle\caches\9.0.0\transforms\c6b489605330c46e2afe29560f4dc9eb\transformed\ui-util-release\res
+com.jenugumpu.app-appcompat-1.6.1-52 C:\Users\singh\.gradle\caches\9.0.0\transforms\cb6c487da80aeae2cf873ebf11e3ecae\transformed\appcompat-1.6.1\res
+com.jenugumpu.app-lifecycle-runtime-ktx-2.7.0-53 C:\Users\singh\.gradle\caches\9.0.0\transforms\d1fa587f3fe89ca78398984247f086dd\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.jenugumpu.app-coil-base-2.5.0-54 C:\Users\singh\.gradle\caches\9.0.0\transforms\d94f72e00308ce4de754c6e172f9adfa\transformed\coil-base-2.5.0\res
+com.jenugumpu.app-activity-ktx-1.8.2-55 C:\Users\singh\.gradle\caches\9.0.0\transforms\d9c1f4dbfedf87cc80c41a859d137894\transformed\activity-ktx-1.8.2\res
+com.jenugumpu.app-material-icons-core-release-56 C:\Users\singh\.gradle\caches\9.0.0\transforms\dd5327f9a1c56235beb88bbc0ea51ee6\transformed\material-icons-core-release\res
+com.jenugumpu.app-camera-camera2-1.3.1-57 C:\Users\singh\.gradle\caches\9.0.0\transforms\e3f3fe7ebe26454945dd1624740010a5\transformed\camera-camera2-1.3.1\res
+com.jenugumpu.app-emoji2-1.3.0-58 C:\Users\singh\.gradle\caches\9.0.0\transforms\ea34677721f61911c18495c685f5345d\transformed\emoji2-1.3.0\res
+com.jenugumpu.app-ui-tooling-release-59 C:\Users\singh\.gradle\caches\9.0.0\transforms\eb0d99978162a44191ce72ef83b12f61\transformed\ui-tooling-release\res
+com.jenugumpu.app-lifecycle-runtime-2.7.0-60 C:\Users\singh\.gradle\caches\9.0.0\transforms\ee2c39100c01602b07ad33cb8edcd392\transformed\lifecycle-runtime-2.7.0\res
+com.jenugumpu.app-camera-core-1.3.1-61 C:\Users\singh\.gradle\caches\9.0.0\transforms\f0ec06d30dcc27bbd3edfece80f36f01\transformed\camera-core-1.3.1\res
+com.jenugumpu.app-lifecycle-livedata-core-ktx-2.7.0-62 C:\Users\singh\.gradle\caches\9.0.0\transforms\f39a9579b35af515da0683970e71316f\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.jenugumpu.app-navigation-runtime-ktx-2.7.7-63 C:\Users\singh\.gradle\caches\9.0.0\transforms\f91c68580cbd2db0bd222c5589d0aa7f\transformed\navigation-runtime-ktx-2.7.7\res
+com.jenugumpu.app-savedstate-ktx-1.2.1-64 C:\Users\singh\.gradle\caches\9.0.0\transforms\fa3688e3116df5862efce4ec3576d09d\transformed\savedstate-ktx-1.2.1\res
+com.jenugumpu.app-material-icons-extended-release-65 C:\Users\singh\.gradle\caches\9.0.0\transforms\fe355c44d599e2cce28cc4783c548eb2\transformed\material-icons-extended-release\res
+com.jenugumpu.app-resValues-66 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\build\generated\res\resValues\debug
+com.jenugumpu.app-updated_navigation_xml-67 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\build\generated\updated_navigation_xml\debug
+com.jenugumpu.app-packageDebugResources-68 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.jenugumpu.app-packageDebugResources-69 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.jenugumpu.app-debug-70 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.jenugumpu.app-debug-71 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\src\debug\res
+com.jenugumpu.app-main-72 C:\Users\singh\OneDrive\Desktop\Honey Collective Management App\app\src\main\res

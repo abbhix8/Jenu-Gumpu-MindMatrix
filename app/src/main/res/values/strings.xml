@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jenu-Gumpu</string>
+    <string name="app_subtitle">Honey Collective Management</string>
+    
+    <!-- Home Screen -->
+    <string name="total_collective_stock">Total Collective Stock</string>
+    <string name="stock_by_floral_source">Stock by Floral Source</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="log_harvest">Log Harvest</string>
+    <string name="ai_grade_check">AI Grade Check</string>
+    <string name="manage_batches">Manage Batches</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="profit_calculator">Profit Calculator</string>
+    
+    <!-- Harvest Screen -->
+    <string name="quantity_kg">Quantity (kg)</string>
+    <string name="floral_source">Floral Source</string>
+    <string name="grade">Grade</string>
+    <string name="location">Location</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="add_harvest_log">Add Harvest Log</string>
+    <string name="recent_harvests">Recent Harvests</string>
+    <string name="in_batch">✓ In Batch</string>
+    
+    <!-- Stock Screen -->
+    <string name="batch_management">Batch Management</string>
+    <string name="create_new_batch">Create New Batch</string>
+    <string name="select_logs_include">Select harvest logs to include:</string>
+    <string name="batch_grade">Batch Grade</string>
+    <string name="create_batch">Create Batch</string>
+    <string name="create_batch_format">Create Batch (%d logs)</string>
+    <string name="existing_batches">Existing Batches</string>
+    <string name="batch_created">Batch Created!</string>
+    <string name="batch_created_msg">Batch created successfully. You can now generate QR code.</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="contains_logs">Contains %d harvest log(s)</string>
+    <string name="batch_qr_code">Batch QR Code</string>
+    
+    <!-- Camera Screen -->
+    <string name="ai_honey_grading">AI Honey Grading</string>
+    <string name="capture_image_info">Capture image for offline grade detection</string>
+    <string name="classification_result">Classification Result</string>
+    <string name="confidence">Confidence:</string>
+    <string name="using_color_analysis">⚠ Using color analysis (model not loaded)</string>
+    <string name="all_probabilities">All Probabilities:</string>
+    <string name="take_another_photo">Take Another Photo</string>
+    <string name="sim_moisture_test">Simulated Moisture Test</string>
+    <string name="moisture_level">Moisture Level:</string>
+    <string name="moisture_optimal">Optimal (&lt; 20%)</string>
+    <string name="camera_permission_req">Camera permission required</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Profit Screen -->
+    <string name="enter_details">Enter Details</string>
+    <string name="cost_per_kg">Cost per kg (₹)</string>
+    <string name="selling_price_kg">Selling price per kg (₹)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="results">Results</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="total_profit">Total Profit</string>
+    <string name="profit_per_kg">Profit per kg:</string>
+    <string name="profit_margin">Profit Margin</string>
+    <string name="market_trends">Market Trends</string>
+    <string name="retail_price">Retail Price in City (avg): ₹ 450/kg</string>
+    <string name="wholesale_price">Wholesale Price to Middleman: ₹ 150/kg</string>
+    <string name="market_advice">By selling collectively to urban markets, you can increase your profit margin significantly!</string>
+    
+    <!-- Enums and Shared -->
+    <string name="floral_coffee">Coffee</string>
+    <string name="floral_wildflower">Wildflower</string>
+    <string name="floral_neem">Neem</string>
+    <string name="floral_mixed">Mixed</string>
+    <string name="grade_light">Light</string>
+    <string name="grade_medium">Medium</string>
+    <string name="grade_dark">Dark</string>
+
+    <!-- Grading Guide Screen -->
+    <string name="grading_guide_title">Honey Grading Guide</string>
+    <string name="grading_guide_subtitle">Visual guide to check honey quality by color and moisture</string>
+    <string name="grade_light_color_desc">Color: Pale gold to light amber</string>
+    <string name="grade_light_moisture">Moisture: 16–18%</string>
+    <string name="grade_light_price">Market Price: ₹ 450–550/kg</string>
+    <string name="grade_medium_color_desc">Color: Amber to golden brown</string>
+    <string name="grade_medium_moisture">Moisture: 18–20%</string>
+    <string name="grade_medium_price">Market Price: ₹ 350–450/kg</string>
+    <string name="grade_dark_color_desc">Color: Dark brown to deep amber</string>
+    <string name="grade_dark_moisture">Moisture: 20–22%</string>
+    <string name="grade_dark_price">Market Price: ₹ 280–350/kg</string>
+    <string name="moisture_test_title">Simulated Moisture Test</string>
+    <string name="moisture_test_step1">1. Take a small sample of honey on a spoon.</string>
+    <string name="moisture_test_step2">2. Tilt the spoon — quality honey flows slowly.</string>
+    <string name="moisture_test_step3">3. Drop a small amount in water — pure honey sinks.</string>
+    <string name="moisture_test_result">Good honey has moisture below 20%. Use AI Grade Check for best results.</string>
+
+    <!-- Batch Comparison Screen -->
+    <string name="batch_comparison_title">Batch Money Comparison</string>
+    <string name="batch_comparison_subtitle">Compare the retail value of your batches versus selling to middlemen</string>
+    <string name="total_collective_value">Total Collective Value</string>
+    <string name="retail_value">Retail Value</string>
+    <string name="wholesale_value">Wholesale Value</string>
+    <string name="you_save">You earn ₹ %.0f MORE by selling direct!</string>
+    <string name="no_batches_yet">No batches created yet. Create batches from your harvest logs first.</string>
+    <string name="retail_label">Retail (City)</string>
+    <string name="wholesale_label">Wholesale (Middleman)</string>
+    <string name="extra_earnings">Extra earnings: ₹ %.0f by selling direct</string>
+    <string name="compare_batches">Compare Batches</string>
+
+    <!-- Sustainable Harvest Screen -->
+    <string name="sustainable_title">Sustainable Harvest Guide</string>
+    <string name="sustainable_subtitle">How to harvest honey without killing the bee colony</string>
+    <string name="guide_timing_title">Harvest at the Right Time</string>
+    <string name="guide_timing_desc">Harvest only during the peak season (March–May). Avoid the monsoon when bees need their stores the most.</string>
+    <string name="guide_leave_honey_title">Leave Honey for the Bees</string>
+    <string name="guide_leave_honey_desc">Always leave at least 30–40% of the honeycomb for the colony to survive. Never take the entire comb.</string>
+    <string name="guide_no_smoke_title">Avoid Excessive Smoke or Fire</string>
+    <string name="guide_no_smoke_desc">Use minimal natural smoke (dry leaves) to calm bees. Never use fire or chemical smoke — it kills larvae and destroys the colony.</string>
+    <string name="guide_queen_title">Protect the Queen Bee</string>
+    <string name="guide_queen_desc">Be gentle when harvesting. If the queen is harmed, the entire colony will collapse. Cut only the honey-filled sections.</string>
+    <string name="guide_night_title">Harvest at Dusk or Dawn</string>
+    <string name="guide_night_desc">Bees are less aggressive during early morning or evening. This reduces the chance of disturbing the colony.</string>
+    <string name="guide_replant_title">Protect Bee Habitat</string>
+    <string name="guide_replant_desc">Plant nectar-rich flowers and trees near your area. Coffee, neem, and wildflowers provide the best floral sources for bees.</string>
+    <string name="forest_to_table">🌿 Forest-to-Table</string>
+    <string name="forest_to_table_desc">By following these practices, your honey qualifies as organic, chemical-free Forest-to-Table honey — commanding premium prices.</string>
+    <string name="sustainable_harvest">Harvest Guide</string>
+    <string name="grading_guide">Grading Guide</string>
+
+    <!-- Profit Screen additions -->
+    <string name="filtering_cost_kg">Filtering cost per kg (₹)</string>
+    <string name="filtering_cost_label">Filtering Cost</string>
+    <string name="earnings_after_filtering">Earnings After Filtering</string>
+
+    <!-- Price Monitor Screen -->
+    <string name="price_monitor_title">Price Monitor</string>
+    <string name="price_monitor_subtitle">Real-time retail price vs. wholesale price trends</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">Welcome to Jenu-Gumpu</string>
+    <string name="login_subtitle">Empowering Honey Hunters &amp; Collectors</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="signup_title">Join the Collective</string>
+    <string name="signup_subtitle">Create your account to start managing honey</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_role">I am a...</string>
+    <string name="role_collector">Honey Collector / Hunter</string>
+    <string name="role_buyer">Honey Buyer / Retailer</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="passwords_dont_match">Passwords do not match</string>
+
+    <!-- Buyer Dashboard -->
+    <string name="marketplace_title">Honey Marketplace</string>
+    <string name="marketplace_subtitle">Browse and buy premium forest honey</string>
+    <string name="available_batches">Available Batches</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="batch_details">Batch Details</string>
+    <string name="purchased_msg">Thank you for your purchase! The collective will contact you for delivery.</string>
+    <string name="no_batches_available">No batches available for sale at the moment.</string>
+    <string name="filter_by_floral">Filter by Floral Source</string>
+    <string name="all_sources">All Sources</string>
+
+    <!-- Report Screen -->
+    <string name="reports_title">Reports &amp; Analytics</string>
+    <string name="reports_subtitle">Generate summary reports of honey collection</string>
+    <string name="generate_report">Generate Report (.txt)</string>
+    <string name="report_generated">Report Generated!</string>
+    <string name="report_saved_at">Report saved to your Documents folder.</string>
+    <string name="total_harvests">Total Harvest Entries</string>
+    <string name="total_batches">Total Batches Created</string>
+    <string name="estimated_revenue">Estimated Revenue Potential</string>
+    <string name="view_report">View Report</string>
+</resources>
