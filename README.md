@@ -5,6 +5,33 @@ A complete, production-ready Android application built with Kotlin, Jetpack Comp
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>🏠 Home Dashboard</b></td>
+    <td align="center"><b>⚡ Quick Actions</b></td>
+    <td align="center"><b>🌾 Log Harvest</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home_dashboard.png" width="250"/></td>
+    <td><img src="screenshots/quick_actions.png" width="250"/></td>
+    <td><img src="screenshots/log_harvest.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📦 Batch Management</b></td>
+    <td align="center"><b>🔳 QR Code</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/batch_management.png" width="250"/></td>
+    <td><img src="screenshots/qr_code.png" width="250"/></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Features
 
 ### Core Features
